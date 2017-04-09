@@ -7,7 +7,7 @@
 [![codecov.io](http://codecov.io/github/joshday/CorrelationView.jl/coverage.svg?branch=master)](http://codecov.io/github/joshday/CorrelationView.jl?branch=master)
 
 
-Quick visualizations of correlation matrices
+Quick visualizations of correlation matrices in the REPL
 
 ```
 julia> using Distributions, CorrelationView
